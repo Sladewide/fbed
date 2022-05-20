@@ -225,7 +225,8 @@
 0917.com
 0919123.com
 0921.com
-0931lanzhou.com
+0931
+hou.com
 0935.com
 0937.net
 09451.com
@@ -6876,6 +6877,7 @@ lanyanwan.com
 lanyus.com
 lanzhouunicom.com
 lanzous.com
+lanzouo.com
 laohu.com
 laohuangli.net
 laohuyou.xyz
